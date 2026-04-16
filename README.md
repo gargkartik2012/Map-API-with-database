@@ -1,5 +1,3 @@
-# CoreShield Assessment Processing MapData with MetaData
-
 # CoreShield-Processing-Map-Data-with-Metadata-with-database
 
 ---
